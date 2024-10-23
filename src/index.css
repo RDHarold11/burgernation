@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  font-family: "Poppins";
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title {
+  font-weight: 700;
+  line-height: 70px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
